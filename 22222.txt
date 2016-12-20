@@ -1,0 +1,6 @@
+Fox:2
+Falco:2
+Marth:0
+Ice Climbers:0
+Peach:0
+Sheik:0
